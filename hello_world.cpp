@@ -8,3 +8,5 @@ int main() {
     // greeting the user
     std::cout << "Hello world from @" << name << std::endl;
 }
+
+// ask user for their name - please enter your name
