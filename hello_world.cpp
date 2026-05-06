@@ -3,6 +3,7 @@
 
 int main() {
     std::string name;
+    // ask user for their name
     std::cin >> name;
     // greeting the user
     std::cout << "Hello world from @" << name << std::endl;
